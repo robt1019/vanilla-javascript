@@ -1,0 +1,5 @@
+#navBar ul li {
+    cursor: pointer;
+    display: inline;
+    padding-right: 20px;
+}
